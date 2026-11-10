@@ -1,59 +1,52 @@
-<img src="./banner.svg" alt="PrimePulse Digitals: websites, apps en digitaal advies vanuit Amsterdam" width="100%">
+<img src="./banner.svg" alt="PrimePulse Digitals: websites, apps and digital consultancy, based in Amsterdam" width="100%">
 
-### Websites, apps en digitaal advies, vanuit Amsterdam.
+### Websites, apps and digital consultancy, based in Amsterdam.
 
-PrimePulse Digitals bouwt websites en software, koppelt systemen en automatiseert terugkerend werk. Voor ondernemers en organisaties. Je hebt direct contact met de persoon die het werk uitvoert.
+PrimePulse Digitals builds websites and software, connects systems and automates recurring tasks for businesses and organisations. You work directly with the person who does the work.
 
-**[Stuur een e-mail](mailto:primepulsedigitals@gmail.com)** · **[Bekijk het portfolio](https://github.com/Primepulse-Digitals/portfolio)**
+**[Send an email](mailto:primepulsedigitals@gmail.com)** · **[View the portfolio](https://github.com/Primepulse-Digitals/portfolio)**
 
 ---
 
-#### Wat PrimePulse doet
+#### What PrimePulse does
 
-| | Wat je krijgt | Tools |
+| | What you get | Tools |
 |---|---|---|
-| **Websites & apps** | Websites, webshops en apps, van ontwerp tot bouw en koppeling met je andere systemen | Next.js · React · Webflow · Framer · Shopify · Swift |
-| **Automatisering & AI** | Terugkerend werk automatisch: gegevens overnemen, aanvragen verwerken, conceptantwoorden | n8n · Make · Zapier · OpenAI · Claude · Gemini |
-| **Data & dashboards** | Gegevens uit spreadsheets en systemen samen in één dashboard, met uitleg bij de cijfers | Power BI · Python · pandas · PostgreSQL |
-| **3D, video & content** | Fotografie, 3D-productbeelden en video voor je website en campagnes | Blender · DaVinci Resolve · After Effects · Figma |
-| **Maatwerk & integraties** | Koppelingen tussen je systemen en software voor werk dat je huidige tools niet aankunnen | Python · Docker · Google Cloud · API's |
-| **Digitaal advies** | Hulp bij softwarekeuzes, planning, training en de invoering van nieuwe tools | |
+| **Websites & apps** | Websites, online shops and apps, from design and development to connections with your other systems | Next.js · React · Webflow · Framer · Shopify · Swift |
+| **Automation & AI** | Recurring tasks handled automatically, such as transferring data, processing enquiries and drafting replies | n8n · Make · Zapier · OpenAI · Claude · Gemini |
+| **Data & dashboards** | Data from spreadsheets and systems brought together in one dashboard, with the figures explained | Power BI · Python · pandas · PostgreSQL |
+| **3D, video & content** | Photography, 3D product visuals and video for your website and campaigns | Blender · DaVinci Resolve · After Effects · Figma |
+| **Custom software & integrations** | Connections between your systems and custom software for work your existing tools cannot handle | Python · Docker · Google Cloud · APIs |
+| **Digital consultancy** | Help with software choices, planning, training and introducing new tools | |
 
-#### Werkwijze
+#### How we work
 
-1. **Kennismaking**: je vertelt wat je wilt maken of veranderen en wat je nu al gebruikt.
-2. **Voorstel**: je ontvangt een voorstel met de werkzaamheden, planning en kosten.
-3. **Uitwerking**: tijdens het werk zie je versies waarop je kunt reageren.
-4. **Oplevering**: je krijgt uitleg en documentatie. Onderhoud en vervolgwerk spreek je apart af.
+1. **Introductory call**: you explain what you want to build or change and what you already use.
+2. **Proposal**: you receive a proposal setting out the work, timeline and costs.
+3. **Development**: you review work in progress and give feedback along the way.
+4. **Handover**: you receive guidance and documentation. Maintenance and further work are agreed separately.
 
-#### Over de repositories
+#### About these repositories
 
-Klantwerk staat altijd in **privé-repositories**. Geselecteerde projecten staan, met toestemming van de klant, in het **[portfolio](https://github.com/Primepulse-Digitals/portfolio)**.
+Client work is always kept in **private repositories**. Selected projects appear in the **[portfolio](https://github.com/Primepulse-Digitals/portfolio)** with the client's permission.
 
 <details>
-<summary><b>English</b></summary>
+<summary><b>Nederlands</b></summary>
 
 <br>
 
-**Websites, apps and digital advice, based in Amsterdam.**
+**Websites, apps en digitaal advies, vanuit Amsterdam.**
 
-PrimePulse Digitals builds websites and software, connects systems and automates recurring tasks, working with businesses and organisations. You deal directly with the person who does the work.
+PrimePulse Digitals bouwt websites en software, koppelt systemen en automatiseert terugkerend werk voor ondernemers en organisaties. Je hebt direct contact met de persoon die het werk uitvoert.
 
-- **Websites & apps**: websites, web shops and apps, from design to build and integration.
-- **Automation & AI**: recurring work handled automatically, with AI where it helps.
-- **Data & dashboards**: data from spreadsheets and systems in one clear dashboard.
-- **3D, video & content**: photography, 3D product visuals and video.
-- **Custom software & integrations**: connections between your systems and bespoke tools.
-- **Digital advice**: software choices, planning, training and adoption.
+Diensten: websites & apps · automatisering & AI · data & dashboards · 3D, video & content · maatwerk & integraties · digitaal advies.
 
-**Approach:** introductory call → proposal → development with regular reviews → handover with documentation.
+Werkwijze: kennismaking → voorstel → uitwerking met tussentijdse versies → oplevering met documentatie.
 
-Client work is always kept in private repositories. Selected projects appear in the [portfolio](https://github.com/Primepulse-Digitals/portfolio) with the client's permission.
-
-[Send an email](mailto:primepulsedigitals@gmail.com)
+[Stuur een e-mail](mailto:primepulsedigitals@gmail.com)
 
 </details>
 
 ---
 
-<sub>PrimePulse Digitals · Amsterdam · KvK 94484538</sub>
+<sub>PrimePulse Digitals · Amsterdam, the Netherlands · Chamber of Commerce (KvK) 94484538</sub>
