@@ -4,7 +4,7 @@
 
 PrimePulse Digitals bouwt websites en software, koppelt systemen en automatiseert terugkerend werk. Voor ondernemers en organisaties. Je hebt direct contact met de persoon die het werk uitvoert.
 
-**[Stuur een e-mail](mailto:primepulsedigitals@gmail.com)** · **[Bekijk het portfolio](https://github.com/primepulsedigitals/portfolio)**
+**[Stuur een e-mail](mailto:primepulsedigitals@gmail.com)** · **[Bekijk het portfolio](https://github.com/Primepulse-Digitals/portfolio)**
 
 ---
 
@@ -28,7 +28,7 @@ PrimePulse Digitals bouwt websites en software, koppelt systemen en automatiseer
 
 #### Over de repositories
 
-Klantwerk staat altijd in **privé-repositories**. Geselecteerde projecten staan, met toestemming van de klant, in het **[portfolio](https://github.com/primepulsedigitals/portfolio)**.
+Klantwerk staat altijd in **privé-repositories**. Geselecteerde projecten staan, met toestemming van de klant, in het **[portfolio](https://github.com/Primepulse-Digitals/portfolio)**.
 
 <details>
 <summary><b>English</b></summary>
@@ -48,7 +48,7 @@ PrimePulse Digitals builds websites and software, connects systems and automates
 
 **Approach:** introductory call → proposal → development with regular reviews → handover with documentation.
 
-Client work is always kept in private repositories. Selected projects appear in the [portfolio](https://github.com/primepulsedigitals/portfolio) with the client's permission.
+Client work is always kept in private repositories. Selected projects appear in the [portfolio](https://github.com/Primepulse-Digitals/portfolio) with the client's permission.
 
 [Send an email](mailto:primepulsedigitals@gmail.com)
 
