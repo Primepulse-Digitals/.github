@@ -4,7 +4,7 @@
 
 PrimePulse Digitals builds websites and software, connects systems and automates recurring tasks for businesses and organisations. You work directly with the person who does the work.
 
-**[Send an email](mailto:primepulsedigitals@gmail.com)** · **[View the portfolio](https://github.com/Primepulse-Digitals/portfolio)**
+**[Visit the website](https://primepulse-digitals.netlify.app/en/)** · **[Send an email](mailto:primepulsedigitals@gmail.com)** · **[View the portfolio](https://github.com/Primepulse-Digitals/portfolio)**
 
 ---
 
@@ -43,7 +43,7 @@ Diensten: websites & apps · automatisering & AI · data & dashboards · 3D, vid
 
 Werkwijze: kennismaking → voorstel → uitwerking met tussentijdse versies → oplevering met documentatie.
 
-[Stuur een e-mail](mailto:primepulsedigitals@gmail.com)
+[Bekijk de website](https://primepulse-digitals.netlify.app/) · [Stuur een e-mail](mailto:primepulsedigitals@gmail.com)
 
 </details>
 
